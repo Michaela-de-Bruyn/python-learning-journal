@@ -4,7 +4,7 @@
 
 ## Module 1: Getting Started in Python (DataCamp)
 
-🔹 Topics Covered
+## Topics Covered:
 
 Importing Python modules
 
@@ -27,5 +27,6 @@ Loading a DataFrame
 Debugging function errors
 
 Simple Python project: Snooping for Suspects
+
 
 
